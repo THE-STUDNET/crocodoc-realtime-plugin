@@ -18,6 +18,6 @@
   "homepage": "https://github.com/THE-STUDNET/crocodoc-realtime-plugin#readme",
   "peerDependencies":{
     "event-source-polyfill": "0.0.1",
-    "viewer": "0.11.1",
+    "viewer": "0.11.1"
   }
 }
